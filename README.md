@@ -1,10 +1,6 @@
 # crypto_challenge
 Repository for the Philly BSides yearly crypto challenges. 
 
-## Hints
-- For all challenge answers are lowercase.
-- Remember to remove new lines when checking checksums!
-
 ## Challenges
 | Year    | Link                | Description |
 |---------|---------------------|-------------|
@@ -16,6 +12,7 @@ If you're having trouble, here are some tips to ensure you're calculating the ch
 
 - It's an MD5 checksum
 - The answers are all lower case
+- Remember to remove new lines when checking checksums!
 
 On *nix/OSX systems, you should get the correct checksum with:
 
