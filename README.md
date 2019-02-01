@@ -31,6 +31,11 @@ checksum: dd76967b79afecfefcc8e2d9452b380f
 
 5e. Frustrated by these nonsensical messages, RoboBen shakes the book. It becomes unbound and he discovers the text `4d3c1a2b` inscribed into the spine.
 
+### Graphic Flag Text (image)
+```
+U2FsdGVkX1+fasreO2RguIfwO0Dw2qY4kypjAommfKzK3xhXvP+BOPfB4GnlCKz12wnMFbuE+G8EHlc3H2y8UusGiShJHD3LxOPebR9Ktm5RdF/o6UjEZ+NlL7LRJQKZrmZ0f+Lg7Pv3NAi6tqBwPA==
+```
+
 ### Final Flag
 echo "FLAG_JAWN" | openssl ALGO_JAWN -a -A -k 5e -iv 00010203040506070809a0b0c0d0e0f -d
 
