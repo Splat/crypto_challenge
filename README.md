@@ -8,6 +8,7 @@ Robo BennieF is back this year with his robot pirate army. He looks over the bow
 `aHR0cHM6Ly93d3cuZ3V0ZW5iZXJnLm9yZy9maWxlcy8xNjQvMTY0LWgvMTY0LWguaHRt`
 
 1a. He glances over the soaking cover, it reads, "Twenty Thousand Leagues Under 0xAAA Sea by Jules Verne" `checksum: 8fc42c6ddf9966db3b09e84365034357`
+
 2b. Opening the book, he finds an inscription: "Major André, ptIchVIIpa26l5w11 -RoboBenedict" What a treacherous message. 
 `checksum: b2fdab230a2c39f3595a947861863cb7`
 
