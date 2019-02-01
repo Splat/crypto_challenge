@@ -1,6 +1,10 @@
 # crypto_challenge
 Repository for the Philly BSides yearly crypto challenges. 
 
+## Hints
+- For all challenge answers are lowercase.
+- Remember to remove new lines when checking checksums!
+
 ## 2
 ![2019](2019_crypto.jpeg "2019")
 
