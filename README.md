@@ -21,3 +21,8 @@ md5 -s "YOUR_ANSWER"
 ```
 
 If you'd rather just use an online tool, [this should suffice](https://www.md5hashgenerator.com/)
+
+# Brought to you by
+- Nick Gunia (crypto), t:@hotdogdeity
+- Ryan Donahue(crypto), t:@ry_donahue
+- Billy Dolan(artist), instagram:@billydolan
